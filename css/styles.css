@@ -12,6 +12,13 @@ h1 {
   line-height: 1.5;
 }
 
+h2{
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 
 #title {
   color: white;
@@ -38,7 +45,7 @@ h1 {
 }
 
 .nav-link{
-  font-weight: 300;
+  font-weight: 400;
   font-size: 1.2rem;
 }
 
@@ -79,4 +86,36 @@ h1 {
 
 .features-desc{
   color: #8f8f8f;
+  font-weight: 500;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #ffff;
+}
+
+.testimonial-image{
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+
+.dog-name{
+  font-weight: 500;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-icon{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
 }
