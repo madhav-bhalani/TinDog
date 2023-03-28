@@ -50,3 +50,33 @@ h1 {
   width: 60%;
   transform: rotate(25deg)
 }
+
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.featuresicon{
+  font-size: 5rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.featuresicon:hover{
+  color: #ff4c68;
+  transition: 0.5s;
+}
+
+.feature-head{
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.features-desc{
+  color: #8f8f8f;
+}
